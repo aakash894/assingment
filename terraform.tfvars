@@ -4,5 +4,6 @@ key_name      = "ansible"
 tags_ec2 = {
   Name = "Nginx"
   Type = "webserver"
+  version = "nubra"
 }
 ami_name = "Nginx ami"
